@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">teatro pad</string>
+    <string name="title_activity_main">teatro pad</string>
+    <string name="package_name">com.radiolibrevientosur.donairepad</string>
+    <string name="custom_url_scheme">com.radiolibrevientosur.donairepad</string>
+</resources>
